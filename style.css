@@ -3,25 +3,25 @@
 html, body {
   margin: 0;
   padding: 0;
-  background:#000;
+  background:#DDB8D8;
   color:#fff;
   font-family: Helvetica, Arial, sans-serif;
 }
 
 a{
-  color:#f00;
+  color:#52604A;
   text-decoration: none;
   transition: all ease 1s;
 }
 
 a:hover{
-  color:#c55;
+  color:#F27794;
   text-decoration: underline;
   transition: all ease 1s;
 }
 
 a:hover:after{
-  content:"🫐";
+  content:"🇨🇱🌶️";
 }
 
 h1{
@@ -34,6 +34,11 @@ h1{
   background: rgba(255,255,255,.2);
   border-radius: 1rem;
   box-shadow: 0 0 5px white;
+  color: #F29B3B;
+}
+
+coso.pdf {
+  color: pink;
 }
 
 .xmas {
